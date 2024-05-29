@@ -1,4 +1,4 @@
-# project-nexus
+# project 1-Login and Signup Page (Front-end Alone)
 A responsive Login & Signup form using HTML, CSS and JavaScript.
 # Features 
 - Responsive UI
